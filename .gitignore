@@ -1,2 +1,7 @@
 env
 .vscode
+.vs/
+bin/
+obj/
+*.user
+*.suo
