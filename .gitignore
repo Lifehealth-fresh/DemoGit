@@ -4,4 +4,8 @@ env
 bin/
 obj/
 *.user
+HEAD
 *.suo
+
+*.suo
+
